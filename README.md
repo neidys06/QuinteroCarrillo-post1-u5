@@ -36,7 +36,7 @@ QuinteroCarrillo-post1-u5/
 │   └── cp5_debug.png         # Checkpoint 5: sesión DEBUG
 ├── dosbox.conf          # Configuración personalizada de DOSBox
 └── README.md            # Este archivo
-
+```
 ---
 
 ## Pasos realizados
