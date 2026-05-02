@@ -20,6 +20,7 @@ commits descriptivos.
 
 ---
 ## Estructura del repositorio
+```
 QuinteroCarrillo-post1-u5/
 ├── src/
 │   ├── saludo.asm       # Programa 1: salida de texto con INT 21h
